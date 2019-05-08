@@ -1,0 +1,18 @@
+http Service / apache Service :
+
+yum install httpd (in rhel)
+
+suo apt install apache2
+
+sysctemctl start apache2
+
+now enable http and https in AWS security
+
+open browser and type your ip
+you can able to see default web page.
+
+How to edit content/ how to put my website?
+
+go inside /var/www/html/
+
+keep your project code there and you able to view your website in browser.
